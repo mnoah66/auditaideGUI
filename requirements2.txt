@@ -9,7 +9,7 @@ openpyxl==2.5.8
 pynsist==2.1
 requests==2.19.1
 requests-download==0.1.2
-urllib3==1.23
+urllib3==1.24.2
 win-cli-launchers==0.1
 XlsxWriter==1.1.1
 yarg==0.1.9
